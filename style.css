@@ -1,0 +1,13 @@
+.show-user {
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+
+.header {
+    text-align: center;
+}
+img{
+    width: 250px;
+    margin-top: 8%;
+}
